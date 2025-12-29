@@ -7,7 +7,7 @@ like it
 
 good devs
 
-<img src="https://img.shields.io/badge/nest-E0234E?style=flat-square&logo=nestjs&logoColor=white"/> <img src="https://img.shields.io/badge/node-5FA04E?style=flat-square&logo=nodejs&logoColor=white"/>
+<img src="https://img.shields.io/badge/nest-E0234E?style=flat-square&logo=nestjs&logoColor=white"/> <img src="https://img.shields.io/badge/node-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white"/>
 <!--
 **UnderProgramer/UnderProgramer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
