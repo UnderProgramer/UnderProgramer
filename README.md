@@ -1,9 +1,13 @@
 ## Im CatShadow :)
 
-- security is my life
+security is my life :)
+like it
 
-<img src="https://img.shields.io/badge/kali-557C94?style=flat-square&logo=kalilinux&logoColor=white"/> <img src="https://img.shields.io/badge/burp-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/>
+<img src="https://img.shields.io/badge/kali-557C94?style=flat-square&logo=kalilinux&logoColor=white"/> <img src="https://img.shields.io/badge/burp-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/> <img src="https://img.shields.io/badge/HTB-9FEF00?style=flat-square&logo=hackthebox&logoColor=white"/> <img src="https://img.shields.io/badge/metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white"/>
 
+good devs
+
+<img src="https://img.shields.io/badge/nest-E0234E?style=flat-square&logo=nestjs&logoColor=white"/> <img src="https://img.shields.io/badge/node-5FA04E?style=flat-square&logo=nodejs&logoColor=white"/>
 <!--
 **UnderProgramer/UnderProgramer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
