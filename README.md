@@ -1,9 +1,9 @@
 ## Im CatShadow :)
 
 - security is my life
-<img src="https://img.shields.io/badge/kalilinux-557C94?style=flat-square&logo=kali&logoColor=white"/>
+<img src="https://img.shields.io/badge/kalilinux-kali-557C94?style=flat-square&logo=kali&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/burpsuite-FF6633?style=flat-square&logo=burp&logoColor=white"/>
+<img src="https://img.shields.io/badge/burpsuite-burp-FF6633?style=flat-square&logo=burp&logoColor=white"/>
 
 <!--
 **UnderProgramer/UnderProgramer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
