@@ -1,7 +1,7 @@
 ## Im CatShadow :)
 
 - security is my life
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"></svg>
+<img src="https://img.shields.io/badge/kalilinux-557C94?style=flat-square&logo=kalilinux&logoColor=white"/>
 
 <!--
 **UnderProgramer/UnderProgramer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
